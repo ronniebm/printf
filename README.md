@@ -28,6 +28,6 @@ To execute the program in bash:
 
 ### Authors
 - Yoyman Castellar - [Github](https://github.com/ymcastellar) , [Twitter](https://twitter.com/castellaryoyman).
-- Ronnie Barrios- [Github](https://github.com/Eng-RonnieBM) , [Twitter](https://twitter.com/ronniealberto).
+- Ronnie Barrios- [Github](https://github.com/ronniebm) , [Twitter](https://twitter.com/ronniealberto).
 
 ###  End of README.md
